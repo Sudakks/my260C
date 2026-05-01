@@ -110,7 +110,7 @@ for inst in all_insts:
         max_bits = 4 if 'v4x' in name.lower() or 'h2v2x' in name.lower() else 2
         for bit in range(max_bits):
             d_term = inst.findITerm(f'D{bit}')
-            if d_term and not d_term.isConnected():
+            if d_term and d_term.getNet() is None:
                 empty_pins += 1
 
 # --- Flow: CTS -> DP -> pin_access -> global_route -> repair_design -> incremental GRT -> repair_timing -> incremental GRT ---

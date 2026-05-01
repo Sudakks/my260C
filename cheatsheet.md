@@ -141,7 +141,6 @@ OpenROAD provides two Python modules: `odb` and `openroad`.
 | `getIoType()`                          | INPUT / OUTPUT / INOUT           |
 | `isInputSignal()` / `isOutputSignal()` | Direction checks                 |
 | `isClocked()`                          | Is clock terminal                |
-| `isConnected()`                        | Has connection                   |
 | `connect(net)`                         | Connect to a net                 |
 | `disconnect()`                         | Disconnect from net              |
 
