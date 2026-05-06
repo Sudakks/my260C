@@ -303,7 +303,7 @@ report = {
     "mbff_count": mbff_count,
     "single_ff_count": total_ffs - mbff_count,
     "mbff_ratio": mbff_count / total_ffs if total_ffs else 0,
-    "mbff_maseters": mbff_types,
+    "mbff_masters": mbff_types,
     "empty_pins": empty_pins,
     "clock_buffer_count": cts_stats["buffers"],
     "sink_count": cts_stats["sinks"],
