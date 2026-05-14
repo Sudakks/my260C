@@ -1,0 +1,31 @@
+{
+  "design": "ibex_v2",
+  "instance_count": 18560,
+  "total_area": 287635.02,
+  "total_ffs": 680,
+  "mbff_count": 585,
+  "single_ff_count": 95,
+  "mbff_ratio": 0.8602941176470589,
+  "mbff_masters": {
+    "sg13g2_dfrbpq_V4X_1": 336,
+    "sg13g2_dfrbpq_V2X_1": 249
+  },
+  "empty_pins": 0,
+  "clock_buffer_count": 57,
+  "sink_count": 682,
+  "total_wirelength": 1186.17,
+  "static_power": 3e-06,
+  "total_power": 0.09188,
+  "displacement": {
+    "total_um": 83732.16,
+    "max_um": 238.85,
+    "mean_um": 4.66
+  },
+  "missing_comb_cells": [
+    "_31997_"
+  ],
+  "added_comb_cells": [],
+  "half_connected_pin_pairs": 0,
+  "expected_clock_period": 7.24,
+  "total_negative_slack": -21.44
+}

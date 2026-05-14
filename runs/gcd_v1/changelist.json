@@ -1,0 +1,60 @@
+{
+  "mbff_1": [
+    "ctrl.state.out\\[0\\]$_DFF_P_",
+    "ctrl.state.out\\[2\\]$_DFF_P_"
+  ],
+  "mbff_2": [
+    "dpath.a_reg.out\\[13\\]$_DFFE_PP_",
+    "dpath.b_reg.out\\[6\\]$_DFFE_PP_"
+  ],
+  "mbff_3": [
+    "dpath.b_reg.out\\[13\\]$_DFFE_PP_",
+    "dpath.b_reg.out\\[12\\]$_DFFE_PP_"
+  ],
+  "mbff_4": [
+    "ctrl.state.out\\[1\\]$_DFF_P_",
+    "dpath.a_reg.out\\[14\\]$_DFFE_PP_"
+  ],
+  "mbff_5": [
+    "dpath.a_reg.out\\[0\\]$_DFFE_PP_",
+    "dpath.a_reg.out\\[8\\]$_DFFE_PP_"
+  ],
+  "mbff_6": [
+    "dpath.a_reg.out\\[1\\]$_DFFE_PP_",
+    "dpath.b_reg.out\\[1\\]$_DFFE_PP_"
+  ],
+  "mbff_7": [
+    "dpath.a_reg.out\\[10\\]$_DFFE_PP_",
+    "dpath.a_reg.out\\[7\\]$_DFFE_PP_",
+    "dpath.a_reg.out\\[11\\]$_DFFE_PP_",
+    "dpath.b_reg.out\\[10\\]$_DFFE_PP_"
+  ],
+  "mbff_8": [
+    "dpath.a_reg.out\\[15\\]$_DFFE_PP_",
+    "dpath.a_reg.out\\[5\\]$_DFFE_PP_"
+  ],
+  "mbff_9": [
+    "dpath.a_reg.out\\[2\\]$_DFFE_PP_",
+    "dpath.b_reg.out\\[2\\]$_DFFE_PP_"
+  ],
+  "mbff_10": [
+    "dpath.a_reg.out\\[3\\]$_DFFE_PP_",
+    "dpath.a_reg.out\\[4\\]$_DFFE_PP_"
+  ],
+  "mbff_11": [
+    "dpath.b_reg.out\\[3\\]$_DFFE_PP_",
+    "dpath.b_reg.out\\[4\\]$_DFFE_PP_"
+  ],
+  "mbff_12": [
+    "dpath.b_reg.out\\[5\\]$_DFFE_PP_",
+    "dpath.b_reg.out\\[15\\]$_DFFE_PP_"
+  ],
+  "mbff_13": [
+    "dpath.a_reg.out\\[9\\]$_DFFE_PP_",
+    "dpath.b_reg.out\\[8\\]$_DFFE_PP_"
+  ],
+  "mbff_14": [
+    "dpath.b_reg.out\\[9\\]$_DFFE_PP_",
+    "dpath.b_reg.out\\[7\\]$_DFFE_PP_"
+  ]
+}
